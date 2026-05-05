@@ -1,8 +1,5 @@
 ## Renee Tillery
 
-<!--
-**tilleryr/tilleryr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I build with AI to ship real workflows — and I think about *why* before *how*.
 
 Operator and strategist working at the intersection of business judgment and AI-native tooling. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
