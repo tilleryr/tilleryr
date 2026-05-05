@@ -16,7 +16,7 @@ Operator and strategist working at the intersection of business judgment and AI-
 ![Lovable](https://img.shields.io/badge/Lovable-FF4785?style=flat&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) 
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
