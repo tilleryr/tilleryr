@@ -6,9 +6,9 @@ And I think about *why* before *how*.
 Operator and strategist working at the intersection of business judgment and AI-native tooling. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
 
 #### 🔭 Currently working on
-- A multi-agent advisory board built in Claude Projects — six personas with distinct perspectives, designed to surface real disagreement instead of consensus
-- Portfolio workflows in n8n and Lovable that solve actual problems (not demos)
-- Pursuing AI business strategy and nonprofit management learning opportunities — bridging structured business thinking with AI-native execution for mission-driven organizations
+- A multi-agent operations team that tasks six personas with distinct functional responsibilities to coordinate on routine office processes such as onboarding new employees
+- Portfolio workflows in n8n and Lovable that solve actual problems
+- Pursuing AI business strategy and nonprofit management learning opportunities to bridge structured business thinking with AI-native execution for mission-driven organizations
 
 #### 🛠 Tools I build with
 
