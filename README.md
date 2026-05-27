@@ -1,14 +1,13 @@
 ## Renee Tillery
 
-I build with AI to ship real workflows. 
-And I think about *why* before *how*.
+I build with AI, and I think about *why* before *how*.
 
-Operator and strategist working at the intersection of business judgment and AI-native tooling. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
+Operator and integrator working at the intersection of business judgment and AI-native tooling. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
 
 #### 🔭 Currently working on
 - A multi-agent operations team that tasks six personas with distinct functional responsibilities to coordinate on routine office processes such as onboarding new employees
 - Portfolio workflows in n8n and Lovable that solve actual problems
-- Pursuing AI business strategy and nonprofit management learning opportunities to bridge structured business thinking with AI-native execution for mission-driven organizations
+- Pursuing AI digital transformation strategy and nonprofit management learning opportunities to bridge structured business thinking with AI execution for mission-driven organizations
 
 #### 🛠 Tools I build with
 
@@ -34,9 +33,9 @@ Operator and strategist working at the intersection of business judgment and AI-
 
 #### 📌 How I think about the work
 - **Does the process work 'on paper'?** If yes, then it's time to automate.
-- **Build the system, then make it the artifact.** Working tools beat polished decks.
-- **Strategy without execution is just a visual.** Shipping without strategic alignment is just filling time.
-- **Disagreement > consensus.** I design feedback loops to seek constructive inputs that make tools better.
+- **Build the system, then make it the artifact.** Working tools beat polished ones.
+- **Strategy needs execution.** Shipping without strategic alignment is just filling time.
+- **Disagreement is better than consensus.** I design feedback loops to seek constructive inputs that make tools better.
 
 #### 📫 Connect
 - LinkedIn: [linkedin.com/in/tilleryr](https://linkedin.com/in/tilleryr)
