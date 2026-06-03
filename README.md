@@ -1,8 +1,8 @@
 ## Renee Tillery
 
-I build with AI, and I think about *why* before *how*.
+I build with AI.
 
-Operator and integrator working at the intersection of business judgment and AI-native tooling. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
+Operator and integrator using business judgment to solve operations problems with AI tools. I use this profile to develop hands-on capability with automation and AI-assisted build tools, then turn that work into portfolio artifacts that demonstrate what's possible when strategy meets execution.
 
 #### 🔭 Currently working on
 - A multi-agent operations team that tasks six personas with distinct functional responsibilities to coordinate on routine office processes such as onboarding new employees
@@ -32,9 +32,10 @@ Operator and integrator working at the intersection of business judgment and AI-
 ![Wispr Flow](https://img.shields.io/badge/Wispr%20Flow-000000?style=flat&logoColor=white)
 
 #### 📌 How I think about the work
-- **Does the process work 'on paper'?** If yes, then it's time to automate.
-- **Build the system, then make it the artifact.** Working tools beat polished ones.
-- **Strategy needs execution.** Shipping without strategic alignment is just filling time.
+- **Strategy needs execution.** I help organizations do what they say they're going to do.
+- **Observe. Diagnose. Design. Create.** I don't act until I'm sure what the problem is that needs to be solved.
+- **Does the process work 'on paper'?** If yes, then we can consider automation. If no, we need to fix the process.
+- **Build the system, then iterate.** A tool that functions can be improved. A tool waiting for perfection sits unused.
 - **Disagreement is better than consensus.** I design feedback loops to seek constructive inputs that make tools better.
 
 #### 📫 Connect
