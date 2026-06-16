@@ -33,10 +33,10 @@ Operator and integrator using business judgment to solve operations problems wit
 
 #### 📌 How I think about the work
 - **Strategy needs execution.** I help organizations do what they say they're going to do.
-- **Observe. Diagnose. Design. Create.** I don't act until I'm sure what the problem is that needs to be solved.
+- **Observe. Diagnose. Design. Create.** I don't act until I'm sure what problem needs to be solved.
 - **Does the process work 'on paper'?** If yes, then we can consider automation. If no, we need to fix the process.
 - **Build the system, then iterate.** A tool that functions can be improved. A tool waiting for perfection sits unused.
-- **Disagreement is better than consensus.** I design feedback loops to seek constructive inputs that make tools better.
+- **Disagreement is better than consensus.** Every difference is an opportunity to learn.  
 
 #### 📫 Connect
 - LinkedIn: [linkedin.com/in/tilleryr](https://linkedin.com/in/tilleryr)
