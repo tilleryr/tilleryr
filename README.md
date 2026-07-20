@@ -7,7 +7,7 @@ Operator and integrator using business judgment to solve operations problems wit
 #### 🔭 Currently working on
 - A multi-agent operations team that tasks six personas with distinct functional responsibilities to coordinate on routine office processes such as onboarding new employees
 - Portfolio workflows in n8n and Lovable that solve actual problems
-- Pursuing AI digital transformation strategy and nonprofit management learning opportunities to bridge structured business thinking with AI execution for mission-driven organizations
+- Consulting on AI enabled operations and developing AI governance with the founder of an AI-native law firm and a nonprofit.
 
 #### 🛠 Tools I build with
 
