@@ -32,9 +32,9 @@ Operator and integrator using business judgment to solve operations problems wit
 ![Wispr Flow](https://img.shields.io/badge/Wispr%20Flow-000000?style=flat&logoColor=white)
 
 #### 📌 How I think about the work
-- **Strategy needs execution.** I help organizations do what they say they're going to do.
-- **Observe. Diagnose. Design. Create.** I don't act until I'm sure what problem needs to be solved.
-- **Does the process work 'on paper'?** If yes, then we can consider automation. If no, we need to fix the process.  
+- **Strategy needs execution.** I help organizations and executives translate strategy into clear steps to execute.
+- **Observe. Diagnose. Build.** I don't act until I'm sure what problem needs to be solved.
+- **Does the process work 'on paper'?** If yes, then it's time to consider automation. If no, then it's time to fix the process.  
 
 #### 📫 Connect
 - LinkedIn: [linkedin.com/in/tilleryr](https://linkedin.com/in/tilleryr)
